@@ -1,16 +1,46 @@
-# movies_hub
+# Movie App 📱
 
-A new Flutter project.
+## 📸 Screenshots
 
-## Getting Started
+<p align="center">
+  <img src="screenshots/dark1.png" width="400">
+  <img src="screenshots/dark2.png" width="400">
+  <img src="screenshots/dark3.png" width="400">
+  <img src="screenshots/dark4.png" width="400">
+  <img src="screenshots/dark5.png" width="400">
+  <img src="screenshots/dark6.png" width="400">
+  <img src="screenshots/dark7.png" width="400">
+  <img src="screenshots/light1.png" width="400">
+  <img src="screenshots/light2.png" width="400">
+  <img src="screenshots/light3.png" width="400">
+  <img src="screenshots/light4.png" width="400">
+  <img src="screenshots/light5.png" width="400">
+</p>
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Add & delete movies
+- Dark mode support
+- Light mode support
+- Local database storage
+- Clean UI
+-  Movie Search
+- Movie Details
 
-A few resources to get you started if this is your first Flutter project:
+## Main packages used
+- dio to make integration with API
+- flutter_bloc as state management
+- shared_preferences to handle caching data
+- internet_connection_checker to handle internet connection
+- get_it to make dependency injection
+- dartz to Functional programming in Dart
+- equatable to Simplify Equality Comparisons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Built With
+- Dart
+- Flutter
+- MVVM
+- Clean Architecture
+- Clean Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Mahmoud Diab
